@@ -1,0 +1,7 @@
+{
+  "bundle": {
+    "entry": "lib/init.js",
+    "name": "bundle.js",
+    "dir": "public"
+  }
+}
